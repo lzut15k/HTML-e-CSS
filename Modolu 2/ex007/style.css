@@ -1,0 +1,15 @@
+@charset "UTF-8"
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: blue;
+}
+h1#prin {
+    text-align: center;
+    background-color: brown;
+}
+.curso {
+    color: rgb(197, 250, 5);
+}
