@@ -64,7 +64,7 @@ section > p {
 
 section.normal {
     background-color: white;
-    color: rgba(0, 0, 0, 0.473);
+    color: black;
 }
 
 section.img {
